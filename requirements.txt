@@ -3,3 +3,4 @@ uvicorn
 huggingface-hub
 requests
 python-dotenv
+gunicorn
